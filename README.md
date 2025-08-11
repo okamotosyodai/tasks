@@ -6,7 +6,7 @@ week1
   
 - []  gccでCプログラムをコンパイル・実行する
   
-- [x]  Linuxの基本コマンド操作（cd, ls, pwd, cp, mv, rm）
+- []  Linuxの基本コマンド操作（cd, ls, pwd, cp, mv, rm）
 - [ ]  
 - []    manコマンドでコマンドのヘルプを見る練習
   
