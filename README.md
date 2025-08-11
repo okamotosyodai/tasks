@@ -1,5 +1,5 @@
 # tasks
-# Week 1 Tasks 
+# Week  Tasks 
 - [] C言語の基本文法を復習（変数・配列・ポインタ・関数）
 - []  gccでCプログラムをコンパイル・実行する
 - [x]  Linuxの基本コマンド操作（cd, ls, pwd, cp, mv, rm）
